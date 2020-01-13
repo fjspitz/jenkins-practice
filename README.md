@@ -6,3 +6,4 @@ Proyecto para pruebas de configuración de un proyecto con Maven.
 - Prueba 2
 - Prueba 3
 - Prueba 4
+- Prueba 5
